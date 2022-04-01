@@ -9,5 +9,6 @@ export class GridContainerComponent implements OnInit {
     constructor() { }
 
     ngOnInit(): void {
+        console.log('ChildComponent:OnInit');
     }
 }

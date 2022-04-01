@@ -24,7 +24,7 @@ export class NotificationsComponent implements OnDestroy, OnInit {
     }
 
     ngOnInit() {
-
+        console.log('ChildComponent:OnInit');
     }
 
     ngOnDestroy() {

@@ -52,6 +52,7 @@ export class DetailsComponent implements OnInit, OnDestroy {
     }
 
     ngOnDestroy() {
+        console.log('ChildComponent:OnDestroy');
     }
 
     public onCopiedClick() {

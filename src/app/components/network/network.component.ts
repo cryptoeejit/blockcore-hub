@@ -37,6 +37,7 @@ export class NetworkComponent implements OnInit, OnDestroy, AfterContentInit {
     }
 
     ngOnInit() {
+        console.log('ChildComponent:OnInit');
     }
 
     ngAfterContentInit() {

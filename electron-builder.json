@@ -65,7 +65,7 @@
         "guid": "b02c24b0-e9e9-40eb-8dbe-d24987328d41",
         "createDesktopShortcut": true,
         "createStartMenuShortcut": true,
-        "license": "dist/assets/license.txt"
+        //"license": "dist/assets/license.txt"
     },
     "msi": {
         "warningsAsErrors": false
